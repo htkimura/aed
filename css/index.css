@@ -32,6 +32,12 @@ main .container {
 	width: fit-content;
 }
 
+main .container a {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Poppins", sans-serif;
 	font-weight: 600;
